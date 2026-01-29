@@ -1,0 +1,71 @@
+{
+  "basics": {
+    "name": "Mingrui Wu",
+    "label": "Graduate Research Assistant",
+    "image": "",
+    "email": "mingruiw@mit.edu",
+    "summary": "Graduate Research Assistant at the Broad Institute of MIT and Harvard. Passionate about computational biology, machine learning, and data science.",
+    "location": {
+      "city": "Cambridge",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mingrui-wu-7928431aa",
+        "url": "https://www.linkedin.com/in/mingrui-wu-7928431aa"
+      },
+      {
+        "network": "GitHub",
+        "username": "mingruiw",
+        "url": "https://github.com/mingruiw"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Broad Institute of MIT and Harvard",
+      "position": "Graduate Research Assistant",
+      "location": "Cambridge, MA",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Describe your research focus and key responsibilities here.",
+      "highlights": ["Add your key achievements", "Add another highlight"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Your University",
+      "location": "City, State",
+      "area": "Your Field of Study",
+      "studyType": "PhD/MS/BS",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "R", "Add more skills"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Add your ML skills"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "projects": []
+}
